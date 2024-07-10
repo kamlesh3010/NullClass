@@ -1,0 +1,2 @@
+# NullClass
+Text Translation 
